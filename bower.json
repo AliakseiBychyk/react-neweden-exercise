@@ -1,9 +1,20 @@
 {
     "name": "newedenfaces",
     "dependencies": {
-        "jquery": "^2.1.4",
-        "bootstrap": "^3.3.5",
+        "jquery": "^2.2.4",
+        "bootstrap": "^3.3.7",
         "magnific-popup": "^1.0.0",
         "toastr": "^2.1.1"
-    }
+    },
+    "description": "",
+    "main": "",
+    "license": "MIT",
+    "homepage": "",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ]
 }
